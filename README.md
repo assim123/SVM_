@@ -1,2 +1,2 @@
 # SVM_
-System Vector  Machines
+support Vector  Machines
